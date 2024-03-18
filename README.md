@@ -11,6 +11,8 @@ This Java application simulates a system with postmen (Postino) delivering mail 
 
 ## How to Use
 
+Compile using one of the scripts in the directory, ".sh" file for unix systems such as MacOS or Linux, ".cmd" file for Windows NT (7, 8, 8.1, 10, 11), if you know what you're doing you can skip this part, or you can configure an IDE, this project has been built using VSCode and Java pack by Microsoft
+
 1. **Run the Application:** Execute the `MainApp` class to launch the application.
 2. **Start Simulation:** Click the "Start simulation" button to begin the simulation process.
 3. **Monitor Logs:** Observe the logs displayed in the GUI window to track the progress of the simulation.
